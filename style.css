@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;   /* Change colour as you like */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Heading colour */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Paragraph colour */
+p {
+    color: #333;
+}
+
+/* Button colour */
+button {
+    background-color: darkblue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
